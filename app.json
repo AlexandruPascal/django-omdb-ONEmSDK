@@ -1,0 +1,9 @@
+{
+    "name": "Django ONEm Imdb app",
+    "description": "Django ONEm Imdb app",
+    "repository": "https://github.com/AlexandruPascal/django-omdb-onem",
+    "keywords": ["django", "onem", "imdb", "sms", "app"],
+    "env": {
+        "DISABLE_COLLECTSTATIC": "1"
+    }
+}
