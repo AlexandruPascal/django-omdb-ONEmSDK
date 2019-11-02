@@ -1,4 +1,4 @@
-Django==2.2.3
+Django==2.2.4
 ONEmSDK==0.3.6
 PyJWT==1.7.1
 django-heroku==0.3.1
